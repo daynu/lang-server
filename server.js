@@ -1286,3 +1286,9 @@ function calculateElo(ratingA, ratingB, scoreA, K = 32) {
     newB: Math.round(ratingB + K * (scoreB - expectedB)),
   };
 }
+
+const PORT = process.env.PORT || 3000;
+
+server.listen(PORT, () => {
+  console.log("Server running on port", PORT);
+});
