@@ -9,6 +9,10 @@ const app = require("express")();
 
 const server = http.createServer(app);
 
+app.get("/", (req, res) => {
+  res.send("OK");
+});
+
 const io = new Server(server, {
   cors: { origin: "*" },
   methods: ["GET", "POST"],
