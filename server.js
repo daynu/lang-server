@@ -4,7 +4,12 @@ dotenv.config();
 const { Server } = require("socket.io");
 const jwt = require("jsonwebtoken");
 const JWT_SECRET = process.env.JWT_SECRET
-const io = new Server(5000, {
+const http = require("http");
+const app = require("express")();
+
+const server = http.createServer(app);
+
+const io = new Server(server, {
   cors: { origin: "*" },
   methods: ["GET", "POST"],
   maxHttpBufferSize: 2e6,
