@@ -1494,28 +1494,36 @@ socket.on("join_queue", async (data = {}) => {
 
   socket.on("register", async ({ email, password, name, language, startingRating }) => {
     try {
-      if (!email || !password) {
+      if (!users) {
+        console.error("Register attempted before MongoDB initialized");
+        return socket.emit("error_msg", "Server is starting up, please try again in a moment.");
+      }
+
+      const normalizedEmail = email?.toString().trim().toLowerCase();
+      const normalizedName = name?.toString().trim();
+
+      if (!normalizedEmail || !password || !normalizedName) {
         return socket.emit("error_msg", "Missing credentials");
+      }
+      if (!/^.+@.+\..+$/.test(normalizedEmail)) {
+        return socket.emit("error_msg", "Please enter a valid email address");
+      }
+      if (normalizedName.length < 3 || normalizedName.length > 20) {
+        return socket.emit("error_msg", "Nickname must be 3-20 characters");
       }
 
       const lang = normalizeLanguage(language ?? 'english');
       const rating = typeof startingRating === 'number' ? startingRating : 200;
-
-      const ratings = {
-        english: null,
-        german: null,
-        french: null,
-        [lang]: rating,
-      };
+      const ratings = { [lang]: rating };
 
       const passwordHash = await bcrypt.hash(password, 10);
 
       const now = new Date();
 
       const result = await users.insertOne({
-        email,
+        email: normalizedEmail,
         passwordHash,
-        name,
+        name: normalizedName,
         rating,
         ratings,
         role: "user",
@@ -1526,15 +1534,26 @@ socket.on("join_queue", async (data = {}) => {
         winStreak: 0,
       });
 
+      const token = jwt.sign(
+        { userId: result.insertedId.toString() },
+        JWT_SECRET,
+        { expiresIn: "30d" }
+      );
+
       socket.userId = result.insertedId;
-      socket.userName = name;
+      socket.userName = normalizedName;
       socket.rating = rating;
       socket.ratings = ratings;
       socket.winStreak = 0;
+      socket.role = "user";
+
+      trackSocketForUser(socket);
+      io.emit('online_count', { count: getOnlineCount() });
 
       socket.emit("register_success", {
+        token,
         userId: socket.userId,
-        name,
+        name: normalizedName,
         rating,
         ratings,
         friendsCount: 0,
@@ -1546,7 +1565,14 @@ socket.on("join_queue", async (data = {}) => {
       });
 
     } catch (err) {
-      socket.emit("error_msg", "Email already exists");
+      console.error("register error", err);
+      const isDuplicateEmail = err?.code === 11000;
+      socket.emit(
+        "error_msg",
+        isDuplicateEmail
+          ? "Email already exists"
+          : "Could not create account. Please check your details and try again."
+      );
     }
   });
 
