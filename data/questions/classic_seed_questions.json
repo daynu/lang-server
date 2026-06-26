@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "seed_english_a1_001",
+    "language": "english",
+    "level": "A1",
+    "text": "Which word means 'hello'?",
+    "type": "multiple_choice",
+    "options": ["Hello", "Thanks", "Book", "Water"],
+    "correctAnswer": "Hello",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_a1_002",
+    "language": "english",
+    "level": "A1",
+    "text": "Which word means 'water'?",
+    "type": "multiple_choice",
+    "options": ["Water", "Bread", "Chair", "School"],
+    "correctAnswer": "Water",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_a1_003",
+    "language": "english",
+    "level": "A1",
+    "text": "Which word means 'cat'?",
+    "type": "multiple_choice",
+    "options": ["Cat", "Dog", "Bird", "Fish"],
+    "correctAnswer": "Cat",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_a1_004",
+    "language": "english",
+    "level": "A1",
+    "text": "Which word means 'red'?",
+    "type": "multiple_choice",
+    "options": ["Red", "Blue", "Green", "Black"],
+    "correctAnswer": "Red",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_a2_001",
+    "language": "english",
+    "level": "A2",
+    "text": "Choose the correct sentence.",
+    "type": "multiple_choice",
+    "options": ["I like apples.", "I likes apples.", "I liking apples.", "I liked apple."],
+    "correctAnswer": "I like apples.",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_a2_002",
+    "language": "english",
+    "level": "A2",
+    "text": "Which word means the opposite of 'big'?",
+    "type": "multiple_choice",
+    "options": ["Small", "Tall", "Long", "Wide"],
+    "correctAnswer": "Small",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_a2_003",
+    "language": "english",
+    "level": "A2",
+    "text": "Complete: She ___ to school every day.",
+    "type": "multiple_choice",
+    "options": ["goes", "go", "going", "gone"],
+    "correctAnswer": "goes",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_a2_004",
+    "language": "english",
+    "level": "A2",
+    "text": "Which word means 'quick'?",
+    "type": "multiple_choice",
+    "options": ["Fast", "Late", "Quiet", "Heavy"],
+    "correctAnswer": "Fast",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_b1_001",
+    "language": "english",
+    "level": "B1",
+    "text": "Complete: I have lived here ___ three years.",
+    "type": "multiple_choice",
+    "options": ["for", "since", "during", "while"],
+    "correctAnswer": "for",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_b1_002",
+    "language": "english",
+    "level": "B1",
+    "text": "Choose the best meaning of 'borrow'.",
+    "type": "multiple_choice",
+    "options": ["Take and return later", "Give forever", "Buy cheaply", "Lose quickly"],
+    "correctAnswer": "Take and return later",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_b1_003",
+    "language": "english",
+    "level": "B1",
+    "text": "Complete: If it rains, we ___ stay home.",
+    "type": "multiple_choice",
+    "options": ["will", "would", "did", "have"],
+    "correctAnswer": "will",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_b1_004",
+    "language": "english",
+    "level": "B1",
+    "text": "Which phrase means 'make a decision'?",
+    "type": "multiple_choice",
+    "options": ["Choose what to do", "Forget a plan", "Ask a question", "Repeat a word"],
+    "correctAnswer": "Choose what to do",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_b2_001",
+    "language": "english",
+    "level": "B2",
+    "text": "Complete: The meeting was postponed ___ the manager was ill.",
+    "type": "multiple_choice",
+    "options": ["because", "although", "unless", "despite"],
+    "correctAnswer": "because",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_b2_002",
+    "language": "english",
+    "level": "B2",
+    "text": "Which word is closest to 'reliable'?",
+    "type": "multiple_choice",
+    "options": ["Dependable", "Expensive", "Temporary", "Confused"],
+    "correctAnswer": "Dependable",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_b2_003",
+    "language": "english",
+    "level": "B2",
+    "text": "Choose the correct form: I wish I ___ more time.",
+    "type": "multiple_choice",
+    "options": ["had", "have", "will have", "am having"],
+    "correctAnswer": "had",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_b2_004",
+    "language": "english",
+    "level": "B2",
+    "text": "Which sentence uses passive voice?",
+    "type": "multiple_choice",
+    "options": ["The report was written yesterday.", "She wrote the report.", "They are writing now.", "He writes every day."],
+    "correctAnswer": "The report was written yesterday.",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_c1_001",
+    "language": "english",
+    "level": "C1",
+    "text": "Which word means 'short-lived'?",
+    "type": "multiple_choice",
+    "options": ["Transient", "Stubborn", "Abundant", "Careless"],
+    "correctAnswer": "Transient",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_c1_002",
+    "language": "english",
+    "level": "C1",
+    "text": "Complete: Her argument was persuasive, ___ somewhat simplistic.",
+    "type": "multiple_choice",
+    "options": ["albeit", "therefore", "whereas", "unless"],
+    "correctAnswer": "albeit",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_c1_003",
+    "language": "english",
+    "level": "C1",
+    "text": "Which phrase means 'avoid saying something directly'?",
+    "type": "multiple_choice",
+    "options": ["Beat around the bush", "Break the ice", "Call it a day", "Hit the books"],
+    "correctAnswer": "Beat around the bush",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_c1_004",
+    "language": "english",
+    "level": "C1",
+    "text": "Which word is closest to 'meticulous'?",
+    "type": "multiple_choice",
+    "options": ["Careful", "Rapid", "Ordinary", "Doubtful"],
+    "correctAnswer": "Careful",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_c2_001",
+    "language": "english",
+    "level": "C2",
+    "text": "Which word means 'using few words'?",
+    "type": "multiple_choice",
+    "options": ["Laconic", "Verbose", "Ambiguous", "Naive"],
+    "correctAnswer": "Laconic",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_c2_002",
+    "language": "english",
+    "level": "C2",
+    "text": "Complete: The proposal was rejected on the grounds that it was ___ with existing policy.",
+    "type": "multiple_choice",
+    "options": ["incompatible", "indifferent", "incidental", "impartial"],
+    "correctAnswer": "incompatible",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_c2_003",
+    "language": "english",
+    "level": "C2",
+    "text": "Which word is closest to 'equivocal'?",
+    "type": "multiple_choice",
+    "options": ["Ambiguous", "Obvious", "Essential", "Accurate"],
+    "correctAnswer": "Ambiguous",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_c2_004",
+    "language": "english",
+    "level": "C2",
+    "text": "Which phrase means 'a small issue that suggests a larger problem'?",
+    "type": "multiple_choice",
+    "options": ["The tip of the iceberg", "A blessing in disguise", "A clean slate", "A safe bet"],
+    "correctAnswer": "The tip of the iceberg",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_a1_001",
+    "language": "german",
+    "level": "A1",
+    "text": "What is 'hello' in German?",
+    "type": "multiple_choice",
+    "options": ["Hallo", "Bonjour", "Ciao", "Hola"],
+    "correctAnswer": "Hallo",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_a1_002",
+    "language": "german",
+    "level": "A1",
+    "text": "What is 'water' in German?",
+    "type": "multiple_choice",
+    "options": ["Wasser", "Brot", "Milch", "Haus"],
+    "correctAnswer": "Wasser",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_a1_003",
+    "language": "german",
+    "level": "A1",
+    "text": "What is 'book' in German?",
+    "type": "multiple_choice",
+    "options": ["Buch", "Tisch", "Stuhl", "Fenster"],
+    "correctAnswer": "Buch",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_a1_004",
+    "language": "german",
+    "level": "A1",
+    "text": "What is 'red' in German?",
+    "type": "multiple_choice",
+    "options": ["Rot", "Blau", "Grun", "Schwarz"],
+    "correctAnswer": "Rot",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_a2_001",
+    "language": "german",
+    "level": "A2",
+    "text": "Complete: Ich ___ Kaffee.",
+    "type": "multiple_choice",
+    "options": ["trinke", "trinkt", "trinken", "getrunken"],
+    "correctAnswer": "trinke",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_a2_002",
+    "language": "german",
+    "level": "A2",
+    "text": "What is 'I am tired' in German?",
+    "type": "multiple_choice",
+    "options": ["Ich bin mude", "Ich habe mude", "Ich ist mude", "Ich gehe mude"],
+    "correctAnswer": "Ich bin mude",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_a2_003",
+    "language": "german",
+    "level": "A2",
+    "text": "Which word means 'today'?",
+    "type": "multiple_choice",
+    "options": ["heute", "morgen", "gestern", "immer"],
+    "correctAnswer": "heute",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_a2_004",
+    "language": "german",
+    "level": "A2",
+    "text": "Complete: Das ist ___ Auto.",
+    "type": "multiple_choice",
+    "options": ["mein", "meine", "meinen", "meinem"],
+    "correctAnswer": "mein",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_b1_001",
+    "language": "german",
+    "level": "B1",
+    "text": "Complete: Ich warte ___ den Bus.",
+    "type": "multiple_choice",
+    "options": ["auf", "an", "mit", "bei"],
+    "correctAnswer": "auf",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_b1_002",
+    "language": "german",
+    "level": "B1",
+    "text": "What does 'Entscheidung' mean?",
+    "type": "multiple_choice",
+    "options": ["Decision", "Invitation", "Experience", "Weather"],
+    "correctAnswer": "Decision",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_b1_003",
+    "language": "german",
+    "level": "B1",
+    "text": "Complete: Wenn ich Zeit habe, ___ ich dich.",
+    "type": "multiple_choice",
+    "options": ["besuche", "besucht", "besuchen", "besuchst"],
+    "correctAnswer": "besuche",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_b1_004",
+    "language": "german",
+    "level": "B1",
+    "text": "Which word means 'because'?",
+    "type": "multiple_choice",
+    "options": ["weil", "aber", "oder", "doch"],
+    "correctAnswer": "weil",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_b2_001",
+    "language": "german",
+    "level": "B2",
+    "text": "Complete: Obwohl es regnet, ___ wir spazieren.",
+    "type": "multiple_choice",
+    "options": ["gehen", "ging", "gegangen", "geht"],
+    "correctAnswer": "gehen",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_b2_002",
+    "language": "german",
+    "level": "B2",
+    "text": "What does 'zuverlassig' mean?",
+    "type": "multiple_choice",
+    "options": ["Reliable", "Careless", "Temporary", "Expensive"],
+    "correctAnswer": "Reliable",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_b2_003",
+    "language": "german",
+    "level": "B2",
+    "text": "Complete: Ich interessiere mich ___ Musik.",
+    "type": "multiple_choice",
+    "options": ["fur", "auf", "an", "uber"],
+    "correctAnswer": "fur",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_b2_004",
+    "language": "german",
+    "level": "B2",
+    "text": "Which sentence is correct?",
+    "type": "multiple_choice",
+    "options": ["Das Buch wurde gelesen.", "Das Buch hat gelesen.", "Das Buch liest mich.", "Das Buch lesen wurde."],
+    "correctAnswer": "Das Buch wurde gelesen.",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_c1_001",
+    "language": "german",
+    "level": "C1",
+    "text": "What does 'dennoch' mean?",
+    "type": "multiple_choice",
+    "options": ["Nevertheless", "Therefore", "Meanwhile", "Instead"],
+    "correctAnswer": "Nevertheless",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_c1_002",
+    "language": "german",
+    "level": "C1",
+    "text": "Complete: Der Vorschlag wurde ___ mangelnder Beweise abgelehnt.",
+    "type": "multiple_choice",
+    "options": ["aufgrund", "trotzdem", "sowohl", "indem"],
+    "correctAnswer": "aufgrund",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_c1_003",
+    "language": "german",
+    "level": "C1",
+    "text": "What does 'sorgfaltig' mean?",
+    "type": "multiple_choice",
+    "options": ["Careful", "Sudden", "Necessary", "Ordinary"],
+    "correctAnswer": "Careful",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_c1_004",
+    "language": "german",
+    "level": "C1",
+    "text": "Which word is closest to 'umfangreich'?",
+    "type": "multiple_choice",
+    "options": ["Extensive", "Brief", "Doubtful", "Silent"],
+    "correctAnswer": "Extensive",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_c2_001",
+    "language": "german",
+    "level": "C2",
+    "text": "What does 'zwiespaltig' mean?",
+    "type": "multiple_choice",
+    "options": ["Ambivalent", "Precise", "Harmless", "Urgent"],
+    "correctAnswer": "Ambivalent",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_c2_002",
+    "language": "german",
+    "level": "C2",
+    "text": "Complete: Seine Aussage war bewusst ___ formuliert.",
+    "type": "multiple_choice",
+    "options": ["mehrdeutig", "eindeutig", "lautlos", "regelmassig"],
+    "correctAnswer": "mehrdeutig",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_c2_003",
+    "language": "german",
+    "level": "C2",
+    "text": "Which phrase means 'to question something critically'?",
+    "type": "multiple_choice",
+    "options": ["etwas hinterfragen", "etwas verschieben", "etwas bewundern", "etwas vermeiden"],
+    "correctAnswer": "etwas hinterfragen",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_german_c2_004",
+    "language": "german",
+    "level": "C2",
+    "text": "What does 'unabdingbar' mean?",
+    "type": "multiple_choice",
+    "options": ["Indispensable", "Unclear", "Temporary", "Optional"],
+    "correctAnswer": "Indispensable",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_a1_001",
+    "language": "french",
+    "level": "A1",
+    "text": "What is 'hello' in French?",
+    "type": "multiple_choice",
+    "options": ["Bonjour", "Hallo", "Ciao", "Hola"],
+    "correctAnswer": "Bonjour",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_a1_002",
+    "language": "french",
+    "level": "A1",
+    "text": "What is 'water' in French?",
+    "type": "multiple_choice",
+    "options": ["Eau", "Pain", "Lait", "Maison"],
+    "correctAnswer": "Eau",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_a1_003",
+    "language": "french",
+    "level": "A1",
+    "text": "What is 'book' in French?",
+    "type": "multiple_choice",
+    "options": ["Livre", "Table", "Chaise", "Fenetre"],
+    "correctAnswer": "Livre",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_a1_004",
+    "language": "french",
+    "level": "A1",
+    "text": "What is 'red' in French?",
+    "type": "multiple_choice",
+    "options": ["Rouge", "Bleu", "Vert", "Noir"],
+    "correctAnswer": "Rouge",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_a2_001",
+    "language": "french",
+    "level": "A2",
+    "text": "Complete: Je ___ du cafe.",
+    "type": "multiple_choice",
+    "options": ["bois", "boit", "boire", "bu"],
+    "correctAnswer": "bois",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_a2_002",
+    "language": "french",
+    "level": "A2",
+    "text": "What is 'I am tired' in French?",
+    "type": "multiple_choice",
+    "options": ["Je suis fatigue", "J'ai fatigue", "Je va fatigue", "Je fais fatigue"],
+    "correctAnswer": "Je suis fatigue",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_a2_003",
+    "language": "french",
+    "level": "A2",
+    "text": "Which word means 'today'?",
+    "type": "multiple_choice",
+    "options": ["aujourd'hui", "demain", "hier", "toujours"],
+    "correctAnswer": "aujourd'hui",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_a2_004",
+    "language": "french",
+    "level": "A2",
+    "text": "Complete: C'est ___ voiture.",
+    "type": "multiple_choice",
+    "options": ["ma", "mon", "mes", "moi"],
+    "correctAnswer": "ma",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_b1_001",
+    "language": "french",
+    "level": "B1",
+    "text": "Complete: J'attends ___ bus.",
+    "type": "multiple_choice",
+    "options": ["le", "la", "les", "de"],
+    "correctAnswer": "le",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_b1_002",
+    "language": "french",
+    "level": "B1",
+    "text": "What does 'decision' mean in French?",
+    "type": "multiple_choice",
+    "options": ["Decision", "Invitation", "Experience", "Temps"],
+    "correctAnswer": "Decision",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_b1_003",
+    "language": "french",
+    "level": "B1",
+    "text": "Complete: Si j'ai le temps, je te ___.",
+    "type": "multiple_choice",
+    "options": ["visiterai", "visite", "visites", "visiter"],
+    "correctAnswer": "visiterai",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_b1_004",
+    "language": "french",
+    "level": "B1",
+    "text": "Which word means 'because'?",
+    "type": "multiple_choice",
+    "options": ["parce que", "mais", "ou", "donc"],
+    "correctAnswer": "parce que",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_b2_001",
+    "language": "french",
+    "level": "B2",
+    "text": "Complete: Bien qu'il pleuve, nous ___ sortir.",
+    "type": "multiple_choice",
+    "options": ["allons", "aller", "alle", "allait"],
+    "correctAnswer": "allons",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_b2_002",
+    "language": "french",
+    "level": "B2",
+    "text": "What does 'fiable' mean?",
+    "type": "multiple_choice",
+    "options": ["Reliable", "Careless", "Temporary", "Expensive"],
+    "correctAnswer": "Reliable",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_b2_003",
+    "language": "french",
+    "level": "B2",
+    "text": "Complete: Je m'interesse ___ la musique.",
+    "type": "multiple_choice",
+    "options": ["a", "de", "pour", "sur"],
+    "correctAnswer": "a",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_b2_004",
+    "language": "french",
+    "level": "B2",
+    "text": "Which sentence is passive?",
+    "type": "multiple_choice",
+    "options": ["Le livre a ete lu.", "Il lit le livre.", "Je lis souvent.", "Nous lisons le livre."],
+    "correctAnswer": "Le livre a ete lu.",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_c1_001",
+    "language": "french",
+    "level": "C1",
+    "text": "What does 'cependant' mean?",
+    "type": "multiple_choice",
+    "options": ["However", "Therefore", "Meanwhile", "Instead"],
+    "correctAnswer": "However",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_c1_002",
+    "language": "french",
+    "level": "C1",
+    "text": "Complete: La proposition a ete rejetee ___ preuves suffisantes.",
+    "type": "multiple_choice",
+    "options": ["faute de", "malgre", "autant", "afin que"],
+    "correctAnswer": "faute de",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_c1_003",
+    "language": "french",
+    "level": "C1",
+    "text": "What does 'soigneux' mean?",
+    "type": "multiple_choice",
+    "options": ["Careful", "Sudden", "Necessary", "Ordinary"],
+    "correctAnswer": "Careful",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_c1_004",
+    "language": "french",
+    "level": "C1",
+    "text": "Which word is closest to 'vaste'?",
+    "type": "multiple_choice",
+    "options": ["Extensive", "Brief", "Doubtful", "Silent"],
+    "correctAnswer": "Extensive",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_c2_001",
+    "language": "french",
+    "level": "C2",
+    "text": "What does 'ambivalent' mean?",
+    "type": "multiple_choice",
+    "options": ["Having mixed feelings", "Clearly certain", "Completely false", "Very urgent"],
+    "correctAnswer": "Having mixed feelings",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_c2_002",
+    "language": "french",
+    "level": "C2",
+    "text": "Complete: Sa reponse etait volontairement ___.",
+    "type": "multiple_choice",
+    "options": ["ambigue", "evidente", "silencieuse", "reguliere"],
+    "correctAnswer": "ambigue",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_c2_003",
+    "language": "french",
+    "level": "C2",
+    "text": "Which phrase means 'to question something critically'?",
+    "type": "multiple_choice",
+    "options": ["remettre en question", "mettre en valeur", "prendre conge", "faire semblant"],
+    "correctAnswer": "remettre en question",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_french_c2_004",
+    "language": "french",
+    "level": "C2",
+    "text": "What does 'indispensable' mean?",
+    "type": "multiple_choice",
+    "options": ["Essential", "Unclear", "Temporary", "Optional"],
+    "correctAnswer": "Essential",
+    "timeLimit": 15
+  },
+  {
+    "id": "seed_english_a1_gap_001",
+    "language": "english",
+    "level": "A1",
+    "text": "I ___ a book.",
+    "type": "gap_fill",
+    "options": ["have", "has", "am", "are"],
+    "correctAnswers": ["have"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_a1_gap_002",
+    "language": "english",
+    "level": "A1",
+    "text": "She is ___ friend.",
+    "type": "gap_fill",
+    "options": ["my", "me", "I", "mine"],
+    "correctAnswers": ["my"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_a2_gap_001",
+    "language": "english",
+    "level": "A2",
+    "text": "They ___ football on Saturdays.",
+    "type": "gap_fill",
+    "options": ["play", "plays", "playing", "played"],
+    "correctAnswers": ["play"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_a2_gap_002",
+    "language": "english",
+    "level": "A2",
+    "text": "We went ___ the station.",
+    "type": "gap_fill",
+    "options": ["to", "at", "on", "for"],
+    "correctAnswers": ["to"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_b1_gap_001",
+    "language": "english",
+    "level": "B1",
+    "text": "I have known her ___ 2020.",
+    "type": "gap_fill",
+    "options": ["since", "for", "during", "while"],
+    "correctAnswers": ["since"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_b1_gap_002",
+    "language": "english",
+    "level": "B1",
+    "text": "If I ___ time, I will call you.",
+    "type": "gap_fill",
+    "options": ["have", "had", "will", "has"],
+    "correctAnswers": ["have"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_b2_gap_001",
+    "language": "english",
+    "level": "B2",
+    "text": "The report ___ finished yesterday.",
+    "type": "gap_fill",
+    "options": ["was", "has", "is", "were"],
+    "correctAnswers": ["was"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_b2_gap_002",
+    "language": "english",
+    "level": "B2",
+    "text": "Although it was late, we ___ working.",
+    "type": "gap_fill",
+    "options": ["kept", "keep", "keeping", "keeps"],
+    "correctAnswers": ["kept"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_c1_gap_001",
+    "language": "english",
+    "level": "C1",
+    "text": "The policy was introduced ___ reduce costs.",
+    "type": "gap_fill",
+    "options": ["to", "for", "so", "because"],
+    "correctAnswers": ["to"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_c1_gap_002",
+    "language": "english",
+    "level": "C1",
+    "text": "Her explanation was clear, ___ incomplete.",
+    "type": "gap_fill",
+    "options": ["albeit", "therefore", "unless", "whereas"],
+    "correctAnswers": ["albeit"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_c2_gap_001",
+    "language": "english",
+    "level": "C2",
+    "text": "The evidence was ___ conclusive.",
+    "type": "gap_fill",
+    "options": ["far from", "close to", "next to", "up to"],
+    "correctAnswers": ["far from"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_english_c2_gap_002",
+    "language": "english",
+    "level": "C2",
+    "text": "His remarks were interpreted ___ criticism.",
+    "type": "gap_fill",
+    "options": ["as", "by", "from", "with"],
+    "correctAnswers": ["as"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_a1_gap_001",
+    "language": "german",
+    "level": "A1",
+    "text": "Ich ___ ein Buch.",
+    "type": "gap_fill",
+    "options": ["habe", "hat", "bin", "sind"],
+    "correctAnswers": ["habe"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_a1_gap_002",
+    "language": "german",
+    "level": "A1",
+    "text": "Das ist ___ Freund.",
+    "type": "gap_fill",
+    "options": ["mein", "meine", "mich", "mir"],
+    "correctAnswers": ["mein"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_a2_gap_001",
+    "language": "german",
+    "level": "A2",
+    "text": "Wir gehen ___ Schule.",
+    "type": "gap_fill",
+    "options": ["zur", "auf", "mit", "bei"],
+    "correctAnswers": ["zur"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_a2_gap_002",
+    "language": "german",
+    "level": "A2",
+    "text": "Er ___ jeden Tag Musik.",
+    "type": "gap_fill",
+    "options": ["hort", "horen", "hore", "gehort"],
+    "correctAnswers": ["hort"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_b1_gap_001",
+    "language": "german",
+    "level": "B1",
+    "text": "Ich lerne Deutsch, ___ ich in Berlin arbeiten will.",
+    "type": "gap_fill",
+    "options": ["weil", "aber", "oder", "denn"],
+    "correctAnswers": ["weil"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_b1_gap_002",
+    "language": "german",
+    "level": "B1",
+    "text": "Wenn ich Zeit habe, ___ ich dich.",
+    "type": "gap_fill",
+    "options": ["besuche", "besucht", "besuchen", "besuchst"],
+    "correctAnswers": ["besuche"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_b2_gap_001",
+    "language": "german",
+    "level": "B2",
+    "text": "Das Problem wurde schnell ___.",
+    "type": "gap_fill",
+    "options": ["gelost", "losen", "lost", "losend"],
+    "correctAnswers": ["gelost"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_b2_gap_002",
+    "language": "german",
+    "level": "B2",
+    "text": "Obwohl es regnet, ___ wir spazieren.",
+    "type": "gap_fill",
+    "options": ["gehen", "ging", "gegangen", "geht"],
+    "correctAnswers": ["gehen"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_c1_gap_001",
+    "language": "german",
+    "level": "C1",
+    "text": "Der Bericht wurde ___ der Frist eingereicht.",
+    "type": "gap_fill",
+    "options": ["innerhalb", "trotzdem", "anstatt", "sowohl"],
+    "correctAnswers": ["innerhalb"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_c1_gap_002",
+    "language": "german",
+    "level": "C1",
+    "text": "Seine Antwort war klar, ___ etwas kurz.",
+    "type": "gap_fill",
+    "options": ["wenn auch", "damit", "bevor", "sobald"],
+    "correctAnswers": ["wenn auch"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_c2_gap_001",
+    "language": "german",
+    "level": "C2",
+    "text": "Die Aussage wurde ___ Kritik verstanden.",
+    "type": "gap_fill",
+    "options": ["als", "bei", "von", "mit"],
+    "correctAnswers": ["als"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_german_c2_gap_002",
+    "language": "german",
+    "level": "C2",
+    "text": "Diese Annahme ist ___ haltbar.",
+    "type": "gap_fill",
+    "options": ["kaum", "sehr", "vollig", "besonders"],
+    "correctAnswers": ["kaum"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_a1_gap_001",
+    "language": "french",
+    "level": "A1",
+    "text": "Je ___ un livre.",
+    "type": "gap_fill",
+    "options": ["lis", "lit", "lire", "lu"],
+    "correctAnswers": ["lis"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_a1_gap_002",
+    "language": "french",
+    "level": "A1",
+    "text": "C'est ___ ami.",
+    "type": "gap_fill",
+    "options": ["mon", "ma", "mes", "moi"],
+    "correctAnswers": ["mon"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_a2_gap_001",
+    "language": "french",
+    "level": "A2",
+    "text": "Nous allons ___ l'ecole.",
+    "type": "gap_fill",
+    "options": ["a", "de", "pour", "sur"],
+    "correctAnswers": ["a"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_a2_gap_002",
+    "language": "french",
+    "level": "A2",
+    "text": "Elle ___ de la musique chaque jour.",
+    "type": "gap_fill",
+    "options": ["ecoute", "ecoutent", "ecouter", "ecoutee"],
+    "correctAnswers": ["ecoute"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_b1_gap_001",
+    "language": "french",
+    "level": "B1",
+    "text": "J'apprends le francais ___ je veux travailler a Paris.",
+    "type": "gap_fill",
+    "options": ["parce que", "mais", "ou", "donc"],
+    "correctAnswers": ["parce que"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_b1_gap_002",
+    "language": "french",
+    "level": "B1",
+    "text": "Si j'ai le temps, je te ___.",
+    "type": "gap_fill",
+    "options": ["visiterai", "visite", "visites", "visiter"],
+    "correctAnswers": ["visiterai"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_b2_gap_001",
+    "language": "french",
+    "level": "B2",
+    "text": "Le probleme a ete rapidement ___.",
+    "type": "gap_fill",
+    "options": ["resolu", "resoudre", "resout", "resolvant"],
+    "correctAnswers": ["resolu"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_b2_gap_002",
+    "language": "french",
+    "level": "B2",
+    "text": "Bien qu'il pleuve, nous ___ sortir.",
+    "type": "gap_fill",
+    "options": ["allons", "aller", "alle", "allait"],
+    "correctAnswers": ["allons"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_c1_gap_001",
+    "language": "french",
+    "level": "C1",
+    "text": "Le rapport a ete remis ___ le delai.",
+    "type": "gap_fill",
+    "options": ["dans", "malgre", "afin", "depuis"],
+    "correctAnswers": ["dans"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_c1_gap_002",
+    "language": "french",
+    "level": "C1",
+    "text": "Sa reponse etait claire, ___ un peu breve.",
+    "type": "gap_fill",
+    "options": ["quoique", "donc", "avant", "lorsque"],
+    "correctAnswers": ["quoique"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_c2_gap_001",
+    "language": "french",
+    "level": "C2",
+    "text": "Cette affirmation a ete percue ___ une critique.",
+    "type": "gap_fill",
+    "options": ["comme", "par", "avec", "chez"],
+    "correctAnswers": ["comme"],
+    "timeLimit": 18
+  },
+  {
+    "id": "seed_french_c2_gap_002",
+    "language": "french",
+    "level": "C2",
+    "text": "Cette hypothese est ___ defendable.",
+    "type": "gap_fill",
+    "options": ["peu", "tres", "tout", "souvent"],
+    "correctAnswers": ["peu"],
+    "timeLimit": 18
+  }
+]
